@@ -1,10 +1,5 @@
-<<<<<<< HEAD
+hi
+ok 
+git is a devops tools
 
 
-
-
- mams hi mamaa
-ok
-=======
-hi mamaa
->>>>>>> parent of 50b33ef (fourth commit)
